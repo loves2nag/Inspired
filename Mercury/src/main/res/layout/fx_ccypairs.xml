@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@drawable/round_corners">
+
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:id="@+id/currency_pair_"
+              android:textColor="#0000b2"
+              android:textSize="35sp"
+              android:textStyle="bold"
+              android:includeFontPadding="false"
+              android:gravity="left|center_horizontal"
+              android:layout_gravity="left"/>
+
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:id="@+id/yes_no"
+              android:textColor="#0000b2"
+              android:textSize="35sp"
+              android:textStyle="bold"
+              android:clickable="true"
+              android:onClick="update"
+              android:includeFontPadding="false"
+              android:gravity="right|center_horizontal"
+              android:layout_gravity="right"/>
+
+</LinearLayout>

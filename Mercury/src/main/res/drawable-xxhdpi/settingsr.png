@@ -1,0 +1,144 @@
+<RDF:Description RDF:about="rdf:#$QW0A52"
+                   NS1:value="mp3/-ab 192k -f mp3"
+                   NS1:label="MP3 192k" />
+  <RDF:Description RDF:about="place:beginTime=1374085800000000&amp;endTime=1374777000000000&amp;sort=1"
+                   NC:open="true" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#nav-bar"
+                   currentset="unified-back-forward-button,dwhelper-toolbaritem,urlbar-container,reload-button,stop-button,wot-button,search-container,downloads-button,home-button,bookmarks-menu-button-container,window-controls,webrtc-status-button"
+                   mode="icons" />
+  <RDF:Description RDF:about="chrome://dwhelper/content/sites.xul#name"
+                   ordinal="1" />
+  <RDF:Description RDF:about="place:beginTime=1374085800000000&amp;endTime=1374777000000000&amp;domainIsHost=1&amp;domain=www.google.co.in&amp;sort=1"
+                   NC:open="true" />
+  <RDF:Description RDF:about="chrome://dwhelper/content/sites.xul">
+    <NC:persist RDF:resource="chrome://dwhelper/content/sites.xul#name"/>
+    <NC:persist RDF:resource="chrome://dwhelper/content/sites.xul#duration"/>
+    <NC:persist RDF:resource="chrome://dwhelper/content/sites.xul#rating"/>
+    <NC:persist RDF:resource="chrome://dwhelper/content/sites.xul#count"/>
+    <NC:persist RDF:resource="chrome://dwhelper/content/sites.xul#date"/>
+    <NC:persist RDF:resource="chrome://dwhelper/content/sites.xul#url"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/places/places.xul#placesContentUrl"
+                   ordinal="5" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#TabsToolbar"
+                   currentset="tabbrowser-tabs,new-tab-button,alltabs-button,tabs-closebutton" />
+  <RDF:Description RDF:about="place:beginTime=1374085800000000&amp;endTime=1374777000000000&amp;sort=1&amp;type=4"
+                   NC:open="true" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#sidebar-box"
+                   width="432"
+                   src="chrome://browser/content/history/history-panel.xul" />
+  <RDF:Description RDF:about="chrome://mozapps/content/plugins/pluginInstallerWizard.xul#plugin-installer-wizard"
+                   screenX="412"
+                   screenY="176"
+                   width="616"
+                   height="518"
+                   sizemode="normal" />
+  <RDF:Seq RDF:about="rdf:#$SW0A52">
+  </RDF:Seq>
+  <RDF:Description RDF:about="rdf:#$SW0A52"
+                   NS1:value="mp4/-ab 160k -ac 2 -acodec libfaac -crf 22 -f mp4 -threads 0 -vcodec libx264"
+                   NS1:label="Galaxy Tab" />
+  <RDF:Description RDF:about="chrome://browser/content/history/history-panel.xul">
+    <NC:persist RDF:resource="chrome://browser/content/history/history-panel.xul#viewButton"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://mozapps/content/downloads/downloads.xul#downloadManager"
+                   screenX="10"
+                   screenY="10"
+                   width="485"
+                   height="300"
+                   sizemode="normal" />
+  <RDF:Description RDF:about="chrome://mozapps/content/plugins/pluginInstallerWizard.xul">
+    <NC:persist RDF:resource="chrome://mozapps/content/plugins/pluginInstallerWizard.xul#plugin-installer-wizard"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$DW0A52">
+  </RDF:Seq>
+  <RDF:Description RDF:about="rdf:#$DW0A52"
+                   NS1:value="mpg/-acodec mp2 -b 800kbps -f mpeg -r 24 -vcodec mpeg1video"
+                   NS1:label="MPEG (mpeg1+mp2)" />
+  <RDF:Description RDF:about="chrome://browser/content/places/places.xul#placesContentTags"
+                   ordinal="3" />
+  <RDF:Seq RDF:about="rdf:#$HW0A52">
+  </RDF:Seq>
+  <RDF:Description RDF:about="rdf:#$HW0A52"
+                   NS1:value="mp4/-ab 160k -ac 2 -acodec libfaac -crf 22 -f mp4 -threads 0 -vcodec libx264"
+                   NS1:label="Galaxy Tab" />
+  <RDF:Description RDF:about="chrome://dwhelper/content/sites.xul#date"
+                   ordinal="9" />
+  <RDF:Description RDF:about="chrome://mozapps/content/downloads/downloads.xul">
+    <NC:persist RDF:resource="chrome://mozapps/content/downloads/downloads.xul#downloadManager"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$KW0A52">
+  </RDF:Seq>
+  <RDF:Description RDF:about="rdf:#$KW0A52"
+                   NS1:value="mov/-f mov -sameq"
+                   NS1:label="Quicktime (MOV)" />
+  <RDF:Description RDF:about="chrome://browser/content/places/places.xul#places"
+                   width="700"
+                   height="500"
+                   sizemode="normal"
+                   screenX="120"
+                   screenY="319" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#navigator-toolbox"
+                   mode="icons" />
+  <RDF:Seq RDF:about="rdf:#$LW0A52">
+  </RDF:Seq>
+  <RDF:Description RDF:about="rdf:#$LW0A52"
+                   NS1:value="avi/-acodec libmp3lame -f avi -vcodec mpeg4"
+                   NS1:label="AVI (mpeg4+mp3)" />
+  <RDF:Description RDF:about="chrome://browser/content/places/places.xul#placesContentDescription"
+                   ordinal="13" />
+  <RDF:Seq RDF:about="http://downloadhelper.net/1.0#conv-confs">
+    <RDF:li RDF:resource="rdf:#$DW0A52"/>
+    <RDF:li RDF:resource="rdf:#$EW0A52"/>
+    <RDF:li RDF:resource="rdf:#$FW0A52"/>
+    <RDF:li RDF:resource="rdf:#$GW0A52"/>
+    <RDF:li RDF:resource="rdf:#$HW0A52"/>
+    <RDF:li RDF:resource="rdf:#$IW0A52"/>
+    <RDF:li RDF:resource="rdf:#$JW0A52"/>
+    <RDF:li RDF:resource="rdf:#$KW0A52"/>
+    <RDF:li RDF:resource="rdf:#$LW0A52"/>
+    <RDF:li RDF:resource="rdf:#$MW0A52"/>
+    <RDF:li RDF:resource="rdf:#$NW0A52"/>
+    <RDF:li RDF:resource="rdf:#$OW0A52"/>
+    <RDF:li RDF:resource="rdf:#$PW0A52"/>
+    <RDF:li RDF:resource="rdf:#$QW0A52"/>
+    <RDF:li RDF:resource="rdf:#$RW0A52"/>
+    <RDF:li RDF:resource="rdf:#$SW0A52"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://downloadhelper.net/1.0#conv-confs"
+                   NS1:conf-inited="true" />
+  <RDF:Seq RDF:about="rdf:#$JW0A52">
+  </RDF:Seq>
+  <RDF:Description RDF:about="rdf:#$JW0A52"
+                   NS1:value="wmv/-ab 128000 -ac 2 -acodec wmav2 -b 640000 -bufsize 2048000 -f asf -maxrate 1350000 -s 320x240 -vcodec wmv2"
+                   NS1:label="Zune" />
+  <RDF:Description RDF:about="chrome://browser/content/setDesktopBackground.xul#menuPosition"
+                   value="CENTER" />
+  <RDF:Description RDF:about="chrome://browser/content/places/places.xul">
+    <NC:persist RDF:resource="chrome://browser/content/places/places.xul#placesContentTags"/>
+    <NC:persist RDF:resource="chrome://browser/content/places/places.xul#placesContentUrl"/>
+    <NC:persist RDF:resource="chrome://browser/content/places/places.xul#placesContentDate"/>
+    <NC:persist RDF:resource="chrome://browser/content/places/places.xul#placesContentVisitCount"/>
+    <NC:persist RDF:resource="chrome://browser/content/places/places.xul#placesContentKeyword"/>
+    <NC:persist RDF:resource="chrome://browser/content/places/places.xul#placesContentDescription"/>
+    <NC:persist RDF:resource="chrome://browser/content/places/places.xul#placesContentDateAdded"/>
+    <NC:persist RDF:resource="chrome://browser/content/places/places.xul#placesContentLastModified"/>
+    <NC:persist RDF:resource="chrome://browser/content/places/places.xul#places"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul">
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#PersonalToolbar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#main-window"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-box"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-title"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#nav-bar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#addon-bar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#navigator-toolbox"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#toolbar-menubar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#TabsToolbar"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/places/places.xul#placesContentLastModified"
+                   ordinal="17" />
+  <RDF:Description RDF:about="chrome://browser/content/places/places.xul#placesContentDate"
+                   ordinal="7"
+                   sortDirection="descending" />
+  <RDF:Desc

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" >Mercury
+    </string>
+    <string name="action_settings" >Settings
+    </string>
+    <string name="copyright">
+        &lt;P align=&quot;justify&quot;&gt;&lt;small&gt;\u00A9 2013 Bank of America Corporation. All Rights Reserved. \"Bank of America Merill Lynch\"
+        is the marketing name for the global banking and global markets businesses of Bank of America
+        Corporation. Lending, derivatives, and other commercial banking activities are performed globally
+        by banking affiliates of Bank of America Corporation, including Bank of America, N.A., member
+        FDIC. Securities, strategic advisory, and other investment banking activities are performed globally
+        by investment banking affiliates of Bank of America Corporation (\"Investment Banking Affiliates\"),
+        including, in the United States, Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated, which is a
+        registered broker-dealer and member of FINRA and SIPC, and, in other jurisdictions, locally registered
+        entities. Investment products offered by Investment Banking Affiliates: Are not FDIC Insured
+        * May Lose Value * Are Not Bank Guaranteed. For assistance, please contact&lt;/small&gt;&lt;/P&gt;
+        &lt;a href=&quot;mailto:bamlmarkets@baml.com&quot;&gt;&lt;small&gt;bamlmarkets@baml.com&lt;/small&gt;&lt;/a&gt;
+    </string>
+    <string name="cp_title">
+        &lt;P&gt;&lt;small&gt;powered by&lt;/small&gt;&lt;br/&gt;&lt;b&gt;ML Mercury&#0153;&lt;/b&gt;&lt;/P&gt;
+    </string>
+    <string name="version">
+        1.0.0.0
+    </string>
+    <string-array name="ccypairs">
+        <item>EURUSD</item>
+        <item>GBPUSD</item>
+        <item>EURJPY</item>
+        <item>AUDUSD</item>
+        <item>AUDJPY</item>
+        <item>EURNOK</item>
+        <item>EURGBP</item>
+        <item>USDNOK</item>
+        <item>EURDKK</item>
+        <item>USDDKK</item>
+        <item>NZDUSD</item>
+        <!--<item>USDJPY</item>-->
+    </string-array>
+</resources>

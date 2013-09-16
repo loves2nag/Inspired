@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              android:background="@drawable/round_corners">
+
+    <TextView android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/currency_pair"
+              android:textColor="#0000b2"
+              android:textSize="35sp"
+              android:textStyle="bold"
+              android:includeFontPadding="false"
+              android:gravity="center"
+              android:textAlignment="center"
+              android:background="@drawable/topleftandright"
+              android:layout_gravity="center|top"/>
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="horizontal">
+
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:id="@+id/rates_actual_left"
+                  android:textColor="#0000b2"
+                  android:textSize="20sp"
+                  android:includeFontPadding="false"
+                  android:textStyle="bold"
+                  android:gravity="left|center_horizontal"
+                  android:layout_gravity="center|left"/>
+
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:id="@+id/rates_actual_right"
+                  android:textColor="#0000b2"
+                  android:textSize="20sp"
+                  android:includeFontPadding="false"
+                  android:textStyle="bold"
+                  android:layout_gravity="center|right"/>
+    </LinearLayout>
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="horizontal">
+
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:id="@+id/rates_decimal_left"
+                  android:textSize="45sp"
+                  android:includeFontPadding="false"
+                  android:background="@drawable/bottomleft"
+                  android:textStyle="bold"/>
+
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:id="@+id/rates_decimal_left_"
+                  android:textSize="20sp"
+                  android:includeFontPadding="false"
+                  android:textStyle="bold"
+                  android:layout_gravity="center"/>
+
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:id="@+id/rates_decimal_right"
+                  android:textSize="45sp"
+                  android:includeFontPadding="false"
+                  android:textStyle="bold"
+                  android:layout_gravity="center"/>
+
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:id="@+id/rates_decimal_right_"
+                  android:textSize="20sp"
+                  android:includeFontPadding="false"
+                  android:textStyle="bold"
+                  android:background="@drawable/bottomright"
+                  android:layout_gravity="center"/>
+    </LinearLayout>
+
+</LinearLayout>
